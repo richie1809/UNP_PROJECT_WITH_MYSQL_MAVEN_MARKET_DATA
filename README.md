@@ -14,6 +14,6 @@ Key Highlights:
  
  ~Engaged stakeholders to understand their analytical needs and incorporated feedback into SQL queries and analysis, aligning with business objectives.
 
-PDF file link(ppt): https://drive.google.com/file/d/12waHyFAaVU8sTs7ucbZxtDANSHw2Nrpq/view?usp=drive_link
+PDF file link(ppt): https://drive.google.com/file/d/12waHyFAaVU8sTs7ucbZxtDANSHw2Nrpq/view?usp=sharing
 
-MySQL PDF link: https://drive.google.com/file/d/17BW5kVSv_J-udM1F5rUICO2ZJl8j_lud/view?usp=drive_link
+MySQL PDF link: https://drive.google.com/file/d/17BW5kVSv_J-udM1F5rUICO2ZJl8j_lud/view?usp=sharing
